@@ -1,7 +1,4 @@
-
-/.idea/.gitignore
-/.idea/examples.iml
-/.idea/misc.xml
-/.idea/modules.xml
-/.idea/vcs.xml
-/exampleExercises/exampleExercises.iml
+/.idea/
+*.iml
+/production/
+/out/
