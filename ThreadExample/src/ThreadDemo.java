@@ -12,7 +12,7 @@ public class ThreadDemo {
 
         }
         Thread.sleep(60000);
-        System.out.println("Thread count started by Main thread:"+ count);
+        System.out.println("Thread count "+ count);
 
     }
 }
