@@ -3,7 +3,7 @@ public class ThreadExercise implements Runnable{
     public void run() {
         System.out.println("I am a running thread");
         try {
-            Thread.sleep(5000);
+            Thread.sleep(5);
         } catch (InterruptedException e) {
             e.printStackTrace();
         }

@@ -2,3 +2,7 @@
 *.iml
 /production/
 /out/
+/ThreadExample/.idea/.gitignore
+/ThreadExample/.idea/misc.xml
+/ThreadExample/.idea/modules.xml
+/ThreadExample/.idea/vcs.xml
