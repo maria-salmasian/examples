@@ -7,7 +7,9 @@ public class ThreadDemo {
             Thread thread = new Thread(new ThreadExercise() );
             thread.setName("I am number " + i);
             System.out.println(thread.getName());
+
             thread.run();
+
             count++;
 
         }
